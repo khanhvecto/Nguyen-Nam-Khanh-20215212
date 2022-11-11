@@ -20,7 +20,7 @@ int main(void)
 
     while (1 > 0) { //this means the loop only stop by sentense "break;"
         while (1 > 0) {
-            printf("%c\t%d x %d = %d\t", 186, j, i, j * i);
+            printf("%c\t%d x %d = %2d\t", 186, j, i, j * i);
             if (j % 3 == 0) {
                 i++;
                 j = j - 3;
