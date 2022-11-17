@@ -1,2 +1,3 @@
-C_programming_ict02_k66
-IT3210_135418
+# C programming, ICT 02 K66
+## IT3210 (135418)
+### Nguyễn Nam Khánh (20215212)
