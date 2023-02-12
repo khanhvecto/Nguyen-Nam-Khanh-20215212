@@ -1,19 +1,30 @@
 //Sample test
 
 Bai 1:
-    TOHOP.INP       TOHOP.OUT
-        10 7            120
-        12 5            792
-        7 4             35
+    TOHOP.INP
+        10 7
+        12 5
+        7 4
+    TOHOP.OUT
+        120
+        792
+        35
 
 Bai 2:
-    BAG.INP         Output:
-        5 54            154
-        15 46 A         A 3
-        7 16 B          B 1
-        9 17 C          C 0
-        3 4 D           D 0
-        4 6 E           E 0
+    BAG.INP
+        5 54
+        15 46 A
+        7 16 B
+        9 17 C
+        3 4 D
+        4 6 E
+    Output:
+        154
+        A 3
+        B 1
+        C 0
+        D 0
+        E 0
 
 Bai 3:
     Choose 2(Nhap them sinh vien)

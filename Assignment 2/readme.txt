@@ -1,17 +1,21 @@
 Cau1:
-    Input:          Output:
-        n = 4           NO
+    Input:
+        n = 4
         1 2 3 0
+    OUtput:
+        NO
 
-    Input:          Output:
-        5               YES
+    Input:
+        5
         1 2 3 3 0
+    Output:
+        YES
 
 Cau3:
-    temp.dat:                   Output:
-        12/2/2023 0:24:30           Nhiet do trung binh ngay: 24.686
-        20.8                        Nhiet do trung binh tu 5h den 15h59'59'': 25.738
-        12/2/2023 0:57:12           Nhiet do trung binh tu 16h den 21h59'59'': 25.558
+    temp.dat:
+        12/2/2023 0:24:30
+        20.8
+        12/2/2023 0:57:12
         21.2
         12/2/2023 1:37:20
         21.5
@@ -97,3 +101,8 @@ Cau3:
         21.3
         12/2/2023 23:39:59
         20.9
+    
+    Output:
+        Nhiet do trung binh ngay: 24.686
+        Nhiet do trung binh tu 5h den 15h59'59'': 25.738
+        Nhiet do trung binh tu 16h den 21h59'59'': 25.558
