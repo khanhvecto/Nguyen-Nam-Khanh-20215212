@@ -1,16 +1,3 @@
-Cau1:
-    Input:
-        n = 4
-        1 2 3 0
-    OUtput:
-        NO
-
-    Input:
-        5
-        1 2 3 3 0
-    Output:
-        YES
-
 Cau3:
     temp.dat:
         12/2/2023 0:24:30
